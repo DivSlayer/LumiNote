@@ -42,7 +42,7 @@
 
 | هایلایت و یادداشت روی هر صفحه | کتابخانهٔ لومی‌نوت |
 | :---: | :---: |
-| ![هایلایت کردن یک صفحهٔ وب](Other/screenshots/screen-1.png) | ![داشبورد کتابخانهٔ لومی‌نوت](Other/screenshots/screen-4.png) |
+| ![هایلایت کردن یک صفحهٔ وب](screenshots/screen-1.png) | ![داشبورد کتابخانهٔ لومی‌نوت](screenshots/screen-4.png) |
 
 </div>
 

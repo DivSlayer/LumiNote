@@ -38,7 +38,7 @@ Everything is stored **locally** in your browser — no accounts, no servers, no
 
 | Highlight & annotate any page | The LumiNote Library |
 | :---: | :---: |
-| ![Highlighting a webpage](Other/screenshots/screen-1.png) | ![LumiNote Library dashboard](Other/screenshots/screen-4.png) |
+| ![Highlighting a webpage](screenshots/screen-1.png) | ![LumiNote Library dashboard](screenshots/screen-4.png) |
 
 ## 📦 Installation
 
