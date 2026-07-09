@@ -50,7 +50,7 @@ Install LumiNote directly from the official store:
 
 ### Load unpacked (for development)
 
-1. Clone or download this repository.
+1. Download the latest release from [here](https://github.com/DivSlayer/LumiNote/releases/latest) and extract the `.zip`.
 2. Open your browser's extensions page:
    - Edge: `edge://extensions`
    - Chrome: `chrome://extensions`

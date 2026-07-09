@@ -56,7 +56,7 @@
 
 ### بارگذاری به‌صورت باز (برای توسعه)
 
-۱. این مخزن را کلون یا دانلود کنید.
+۱. آخرین نسخهٔ منتشرشده را از [اینجا](https://github.com/DivSlayer/LumiNote/releases/latest) دانلود کنید و فایل `.zip` را استخراج کنید.
 ۲. صفحهٔ افزونه‌های مرورگرتان را باز کنید:
    - Edge: `edge://extensions`
    - Chrome: `chrome://extensions`
